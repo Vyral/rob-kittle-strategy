@@ -1,22 +1,22 @@
 audit_header: false
 title: "Guaranteed Offer"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Rob Kittle, a top Real Estate Agent in Northern Colorado, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 client:
-  name:
+  name: Rob Kittle
   title:
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Northern Colorado
+  brand: Kittle Real Estate
   brokerage:
-  address:
-  phone:
+  address: 300 S Howes St Fort Collins, CO 80521
+  phone: 970-460-4444
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: contact@kittleteam.com
+  url: https://www.kittlerealestate.com
 
 images:
   client_headshot_path: /img/headshot.jpg
@@ -25,8 +25,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#999'
+  brand_color: '#AF102C'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
